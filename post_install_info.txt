@@ -1,0 +1,12 @@
+Installation Complete!
+
+ModernFileCreator has been successfully installed on your computer.
+
+You can now start the application by finding it in the Start Menu (Windows) or Applications Folder (macOS). Alternatively, you can run it directly from the desktop shortcut, if one was created.
+
+Thank you for installing ModernFileCreator! We hope you enjoy using it.
+
+For support, visit: https://www.amartyasignnamra.com/support
+For updates and new versions, visit: https://www.amartyasignnamra.com
+
+Click "Finish" to exit the installer.

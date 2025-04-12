@@ -1,0 +1,11 @@
+# How to Install
+
+1. Copy the file `FileCreationDialogue.exe` to `C:\Windows\System32`.
+2. Run the registry file `Add to right click.reg` to add the application to the context menu.
+3. To modify the application, edit the Python file `filecreationdilogue.py` and run `installer.bat` to recompile and update the executable.
+4. Replace the updated `FileCreationDialogue.exe` file in the `System32` folder to apply changes.
+
+# How to Uninstall
+
+1. Delete the `FileCreationDialogue.exe` file from `C:\Windows\System32`.
+2. Remove the associated registry entry by running the `Add to right click.reg` file with the appropriate modifications to delete the entry.

@@ -1,0 +1,12 @@
+Welcome to the ModernFileCreator Installer!
+
+ModernFileCreator is a simple tool to create files with custom names. It provides an intuitive graphical interface, built with PyQt5, for a streamlined experience.
+
+System Requirements:
+- Windows 7 or later / macOS / Linux
+- Python 3.6 or later
+- PyQt5 (This application comes with all dependencies bundled)
+
+By continuing with the installation, you agree to the terms and conditions outlined in the LICENSE file.
+
+Click "Next" to begin the installation process.
